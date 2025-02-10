@@ -31,3 +31,5 @@ Network has ultimate connect.
 Network has ultimate port kind.
 
 Network is ultimate interchange.
+
+Network is most general and most level interchange.
