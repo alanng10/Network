@@ -21,6 +21,6 @@ Network stream can have blocking read.
 
 Network stream can have blocking write.
 
-Network stream has no count.
+Network stream has no count. 
 
-Network stream has no pos.
+Network stream has no pos. 
