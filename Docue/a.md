@@ -20,3 +20,5 @@ Derived host can do network with derived network any.
 Network stream can have blocking read.
 
 Network stream can have blocking write.
+
+Network stream has no count.
